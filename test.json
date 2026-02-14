@@ -1,0 +1,417 @@
+[
+  {
+    "query": "Which is a mandatory condition that must be established and maintained during asbestos removal works: NEGATIVE PRESSURE or FULL CONTAINMENT METHOD?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "For about how long is the spatula used for tapping to level mastic and remove entrapped air?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which drainage systems installed below the road formation must be completed before surface treatment is applied?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which clause set addresses general tree preservation requirements and which clause set focuses specifically on control measures within TPZs?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Must the concrete blinding layer be properly cured before waterproofing membrane application?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which protective material must be installed immediately after membrane curing to protect the membrane from damage by subsequent construction activities and other trades during the maintenance period (constraints: installed immediately after curing; protects against FUTURE OPERATIONS and OTHER TRADES; consequential damage during the Maintenance Period must be repaired)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which organizations must the Contractor coordinate with for disconnection, diversion, relocation, or removal of their equipment and installations before carrying out works?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Must sheet piles be calibrated at 1-meter intervals along their length to permit checking by the SO?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which document or system is responsible for controlling effluents generated from demolition operations, and which document schedules inspections of adjacent structures potentially affected by demolition?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which entity and relationship require that each sheet pile on site be marked with the relevant number corresponding directly to the approved drawings, and also indicate that any changes to the approved driving method require formal approval before implementation (constraints: marking per approved drawings + changes require formal approval)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Does backfill to foundation pits require a relative compaction (RC) of at least 90%?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "With what must cementitious waterproofing be compatible regarding the host material?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which of the following are indicated as requiring protection measures during demolition operations: ADJACENT BUILDINGS, PEDESTRIAN SUBWAYS, or BUILDING SERVICES INSTALLATIONS?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which of SCAFFOLDS and CATCH PLATFORM are part of PRECAUTIONARY MEASURES?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which of the following methods are explicitly listed as methods for cleaning stones in MAINTENANCE REPAIR AND CLEANING: WASHING, ABRASIVE BLASTING, MECHANICAL, or CHEMICAL?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Is a crawler tractor used to spread and level rock fill in embankments?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Must sheet membrane tanking be executed by a specialist contractor?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which type of walling requires more precise dressing, height, and marking specifications: rubble stone walling or ashlar walling?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "What can prevent the installation of sheet piles to the specified penetration?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "What must be done to contaminated water before it is discharged into soil drains?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "According to BS EN 1996-2, what exposure class does MX3 represent?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Do blasting operations require licences from the Commissioner of Mines?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which document(s) must be prepared when the demolition process requires temporary traffic closures and when adjacent structures need periodic inspection?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Do Special Features require precautionary steps for demolishing them?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "If hazardous waste is discovered at the Site and must be stored on-site before transportation or finally disposed of, which locations must comply with Environmental Protection Department requirements?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which is primarily for carrying surface water outside the site and which must be protected during excavation: STORM WATER DRAINAGE SYSTEM or DRAINS?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Must the disposal of CONSTRUCTION & DEMOLITION (C&D) MATERIALS comply with the PARTICULAR SPECIFICATION ON ENVIRONMENTAL MANAGEMENT?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "What role does trimming play with respect to blinding the bottom of the excavation?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which material generated by demolition operations must be controlled and minimized to prevent air pollution? (Constraint: answer must be a material entity that is described as a byproduct of demolition operations and that needs to be minimized to prevent air pollution.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which measurements must be included in the testing of mastic asphalt samples and where must that testing be carried out (constraint: testing includes specific measurements and testing is carried out at PWL)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which document is the standard for compaction and which document specifies the number of samples for testing moisture content and relative compaction?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Are joint widths in mortar-filled rubble walling required to be between 5mm and 15mm?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which equipment is required to unload and position stones into place for constructing the wall? (Constraint: equipment must be used for unloading/handling stones into position and specifically for the wall construction.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Is the Contractor responsible for arranging disposal of materials in DUMPING AREAS?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Does the Contractor submit the method statement to the Supervising Officer for approval?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which more directly specifies the approved construction sequence for excavation: the METHOD STATEMENT or CLAUSE 4.3 (H)?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "What material is used as a backing or core in squared rubble walling?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "When performing the laying and jointing process in rubble stone walling (constraint: laying and jointing process), which material is specified to be used as the bed on which rubble stones are laid?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "What must be done to the concrete blinding layer before applying the waterproofing membrane?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Does the SO instruct performance requirement testing according to BS 5080-1?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Must sufficient negative pressure be maintained during asbestos removal works?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which components are installed to ensure proper adhesion of the waterproofing membrane: CANT STRIP or FILLET?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "How far must bonding rubble extend into the backing or core?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "If special or non-standard sheet piles must retain full structural strength, which welding process is specified to form them under that constraint?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which document is cited as a reference for maintenance repair works?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "4) Question: Which equipment is explicitly prohibited from being used directly on asbestos-containing materials during asbestos removal works? (Constraint: must be equipment that is prohibited during asbestos removal works.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Within how many working days must protection be applied after completion of the Works? (Constraint: time measured in working days)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which documents must Technically Competent Persons comply with when supervising demolition works on-site and preparing daily site supervision reports that are to be endorsed by the RSE? (Constraint: list only documents that the knowledge graph shows TCPs must comply with.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which layer must be laid on the prepared road formation before the road-base but only after the material has been properly compacted? (Constraints: the layer must be (a) laid on the road formation prior to the road-base, and (b) laid only after compaction of material.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Can improper stacking of stacked spoil cause nuisance to the PUBLIC?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Are tree preservation and protection requirements detailed in Clauses 25.201 to 25.257?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which method does the SO use to determine compliance of masonry in permanent work (sample panels) and which does the SO instruct for performance requirement testing (BS 5080-1 and BS 5080-2)?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Are the vertical spacing requirement for wall ties (centers at least 450mm apart) and the minimum extension required for bonding stones into the backing (450mm) equal, or is one greater than the other?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Do end piles and guide piles require the same verticality tolerance, and if so what is it?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which reference document should be used for cleaning works when constrained to documents specified by MAINTENANCE REPAIR AND CLEANING as references for cleaning works (i.e., document must be explicitly referenced for cleaning)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which clause must Portland Cement comply with?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which is greater: the minimum vertical extension above ground for vertical mastic asphalt (150mm) or the minimum thickness required on vertical surfaces (20mm)?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which is used to spread and level rock fill and which is used to fill voids in rock fill layers — the Crawler Tractor or Broken Fragments?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "What tool is used to test rock fragments in cuttings?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Is the use of a Hydraulic Concrete Crusher for demolition of reinforced concrete structures subject to approval by the Supervising Officer?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "For IN-SITU FIELD DENSITY TESTS, which entity refers to determining the density and which refers to determining relative compaction?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which two materials are described simply as unsuitable materials in the relationship between PEAT and VEGETATION?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Between Foundation Pits and Trenches, which requires removal of Surplus Spoil (or do both)?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which temporary support structure used in excavations must be removed only as directed by the SO (constraint: removal only when directed by SO)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "There are two CONTINGENCY MEASURES entities— which one is a REQUIREMENT for safety and escape access measures and which one is described as a PROCESS for handling emergencies during blasting operations?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which piece of equipment is specifically designed for demolition of reinforced concrete structures and requires the Supervising Officer's approval for its use on such structures (unless otherwise approved)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which organizations does the Supervising Officer direct to carry out disconnection or relocation of equipment (list all specified in the graph)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "When must all safety protection be erected in relation to a demolition operation?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which process is described as the method of transporting excavated materials away from nullahs, given the constraint that excavated materials must be stacked for direct loading away from nullahs?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Does the METHOD STATEMENT contain Clause 4.3 (h) which specifies the approved construction sequence for excavation?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "For excavations for structures, pits and trenches carried out near slopes during periods when heavy rain is anticipated, which structures — that are part of temporary watercourse systems — should be used to manage water runoff?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "When should sampling from cauldrons occur?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Is adhesive application dependent on moisture levels tested by moisture testing equipment?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Under which clause or regulation must the Contractor submit operator details before demolition works commence?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which definition of TRENCHES, TRENCHES|INFRASTRUCTURE or TRENCHES|STRUCTURE, specifies that trenches \"are cut into sloping ground strictly as directed by the Site Officer (SO)\"?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which preliminary work requires compliance with regulations: SEALING ABANDONED SEWER AND DRAINAGE CONNECTIONS or DISPLACEMENT OF TRAPPED GAS?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "What relative compaction is required for fill below the road formation level (for 200mm depth)?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which structures require embankments to be built equally on both sides — CULVERTS or DRAIN PIPES?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "5) Question: Is the formation level the reference level for carriageways?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "From which equipment are buckets used to transport materials?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "What is the relationship between the Hydraulic Concrete Crusher and the Concrete Breaker?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "To which on-site location must the real-time video signals from the demolition cameras be transmitted so that the Supervising Officer can monitor the demolition process? (Constraint: the location must be where the Supervising Officer is stationed to monitor the demolition on-site.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which drainage must be completed before surface treatment: SUBGRADE DRAINAGE or PERMANENT DRAINAGE SYSTEMS?",
+    "label": 1,
+    "type": "comparison"
+  }
+]

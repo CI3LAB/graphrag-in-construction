@@ -1,0 +1,417 @@
+[
+  {
+    "query": "According to the graph, what must be done to the bottom of the excavation before blinding?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Is a trip ticket required to confirm the disposal of asbestos waste?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which clause mandates TEMPORARY PROTECTIVE MULCHING?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Under what timing constraint should samples be taken from a CAULDRON (constraint: state when relative to the charge remaining)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which is greater — the maximum spacing of COURSING CENTERS or the maximum length on bed of stones in RANDOM RUBBLE?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Are cant strips installed to ensure proper adhesion of the waterproofing membrane?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Do SAFETY NETS serve the primary function of catching falling objects or people to prevent injuries?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Are SITE LEVELS measurements of ground elevation that must be checked for accuracy before excavation or earthwork begins?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which pieces of equipment use BUCKETS to transport materials — the CAULDRON or the MIXER?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which equipment is used primarily to view the live video signals at the site office: TV MONITORS or VIDEO CAMERAS?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which role is responsible for on-site supervision of demolition activities, and which role works under their immediate supervision?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Do blasting operations require monitoring of effects such as noise and safety?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Is further deposition halted if underlying soil layers fail compaction tests?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Must the oversite topographical survey be conducted by a firm listed in the List of Approved Suppliers of Materials and Specialist Contractors for Public Works?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "What does the approved laboratory analyze with respect to insulation material?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Is masonry in cement mortar used to build up spaces in rock cuttings?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "For parts of the site identified as both SPECIAL FEATURES and CRITICAL AREAS that may affect public and on-site personnel safety, which process must be applied according to the graph? (Constraint: areas must be both SPECIAL FEATURES and CRITICAL AREAS.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which demolition method is designated as the default to be adopted for the project, and who is required to adopt it unless specified otherwise?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Does Clause 2.1 specify requirements for using tarpaulin material?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Do CONTROL TESTS determine the optimum placing thickness and number of passes for compaction?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Is the second coat applied over the first coat after at least 24 hours of curing?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "For vertical termination points, what recess groove dimension must be provided to tuck the waterproofing membrane into (constraint: specified recess groove dimension)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which relates to the order of driving piles versus which relates to a sheet pile being joined from multiple sections — SEQUENCE OF DRIVING or SPLICED?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "What test is conducted to ensure the integrity of the full containment method?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Must the video records produced by the video cameras be retained and kept available for inspection for a minimum period of 14 days after the recording is made?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Who certifies the electrical disconnection process?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which of NOISE and VIBRATION is described as needing mitigation and which as needing control in the demolition context?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which department issues the Code of Practice - Safety and Health at Work with Asbestos?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which materials are directly connected to PEAT and explicitly described as \"unsuitable materials\"? (Constraint: must be direct relationships from PEAT whose description contains \"unsuitable materials\".)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which is appointed by the contractor and has specified academic qualifications and experience: BUILDING SERVICES COORDINATOR or PRELIMINARY WORKS?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which material is explicitly prohibited from being used to coat buckets?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Should sampling from a cauldron occur when approximately half of the charge remains?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Who must comply with the Air Pollution Control (Construction Dust) Regulation?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "There are two UNDER-DRAINING entries— which one describes infrastructure necessary for filling on sloping ground and which one describes the process of draining water from the site?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "When flammable liquids or gases are present on site, what specific preventive requirement must be applied during the demolition operation to avoid fire or explosion? (Constraint: answer must link the presence of flammable liquids/gases to the required fire/explosion prevention during demolition.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "According to the graph, where should stacked spoil be placed to facilitate direct loading?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Does Clause 11.4 specify the properties that sheet membrane samples must comply with during sampling and testing?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "What are temporary watercourses used for in relation to excavation and earthwork areas?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which adjacent entity serves as a reference point for obstructed pile heights, ADJACENT PILES or ADJACENT PROPERTIES, and which requires protection during demolition and construction works?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "According to Geospec 3, what equipment is specified for moisture content tests?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Are COURSING CENTERS used to lineup with QUOIN AND JAMB STONES as reference points?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which clause explicitly specifies the required properties for sheet membrane sampling and testing, and under that sampling-and-testing process where must samples be delivered for testing (constraint: clause specifies properties for sheet membrane; samples are delivered as part of that sampling and testing process)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "What type of earth may be encountered during excavation?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which document provides guidance for clearing Mikania micrantha?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which safety features are explicitly described as precautionary measures to catch falling debris during demolition operations (Constraint: answer must be entities whose primary function is to catch falling debris and are implemented alongside other demolition safety measures)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which activity explicitly requires monitoring of effects on surrounding structures: sheet piling work or dewatering?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which regulations related to the Factories and Industrial Undertakings Ordinance address (a) lifting appliances and lifting gear and (b) noise at work? (Constraint: must be regulations related to the FACTORIES AND INDUSTRIAL UNDERTAKINGS ORDINANCE and specifically on those topics.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which component of soil-cement must be free from organic matter and contain no more than 30% of soil particles passing a 63 micrometers BS test sieve (i.e., identify the component constrained by this particle-size and organic-matter limit)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Who determines compliance of masonry based on sample panels?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which entry describes the dimensional specification for wall ties: 20x3 mm flats or Stainless steel 316 (material composition)?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "In the context of rock cuttings, what (a) material is specified as needing removal and (b) tool is specified for testing rock fragments? Constraint: select only items that are directly connected to ROCK CUTTINGS in the graph.",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "What is required to verify compliance when recompaction is carried out?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which equipment, described as a physical barrier that controls and mitigates dispersion of dust and is explicitly included in PRECAUTIONARY MEASURES (constraint: must be EQUIPMENT, control dust, and be part of PRECAUTIONARY MEASURES)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which processes explicitly involve delivering samples to PUBLIC WORKS LABORATORIES (PWL): BULK SAMPLE delivery or SAMPLING AND TESTING?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "At what locations are noise levels measured to ensure compliance with specified limits?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which included detail in the stone works mock up sample is a process rather than a material: Pointing or Damp proof course?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which structural elements must be calibrated at 1-meter intervals along their length to permit checking by the SO (i.e., subject to the 1m interval calibration constraint)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which backfilled elements explicitly require a minimum RC of at least 90%? (Constraint: list structures that are specified as requiring RC ≥ 90% for their backfill.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which entity certifies electrical disconnection for demolition works, and which entity provides the incoming electricity supply: REGISTERED ELECTRICAL WORKER or SUPPLY COMPANY?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which items are stated to require strict application or construction in accordance with the Manufacturer's instructions?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which National Annex to BS EN 1996-1-1 must granite comply with?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which waterproofing material must be submitted for approval by the SO and meet an elongation capability of not less than 400% to accommodate cracks up to 2mm (constraints: must be submitted to the SO for approval; elongation >= 400%)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which task, conducted well in advance of excavation to form a cut rock face (constraint: conducted well in advance of excavation), requires both explosives and blast-holes with specific specifications?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Is GRANITE required to comply with the National Annex to BS EN 1996-1-1?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Are CATCHFANS described as devices designed to catch falling debris or materials during demolition work?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "What is the vibratory plate compactor used to do to the trimmed formation?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Is the Contractor required to adopt the Top Down Method for demolition unless specified otherwise?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "When performing selective demolition and on-site sorting, which document provides the guidelines for storage, segregation, and disposal of demolition waste that must be followed? (Constraint: must be the document specifically for selective demolition and on-site sorting.)",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "For which is a HIGH EFFICIENCY PARTICULATE ABSOLUTE VACUUM CLEANER used: ASBESTOS WASTE or ASBESTOS REMOVAL WORKS?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which material is specified as the backing or core for squared rubble walling that exceeds 300mm in thickness and also has individual stone dimensions with height 75mm–300mm and length/depth constraints (constraint: used as backing/core for walls > 300mm thickness)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which document becomes the official measurement of earthwork quantities after being endorsed by both parties?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which filling material must (a) have less than 90% passing a 20mm British Standard (BS) test sieve as specified, (b) contain no individual piece exceeding 200mm in its largest dimension, and (c) be compacted to achieve a relative compaction of at least 90% — and is subject to compaction requirements specified in TABLE 3.4 (all constraints must apply)?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "What must be done to the bottom of the excavation before new work begins?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Must formation of rock fill be trimmed and blinded according to Clause 3.23?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "Which calculations are described as a critical task in the demolition process?",
+    "label": 0,
+    "type": "single_hop"
+  },
+  {
+    "query": "Which is mandated by Clause 25.233: TEMPORARY PROTECTIVE FENCING or WARNING SIGNS?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which material is specified to accommodate unanticipated cracks up to 0.6mm wide without losing waterproofing properties: Proprietary Flexible Sheet Membrane or Mastic Asphalt: Type T1097?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Under the constraint that an obstructed sheet pile remains significantly higher than the general top level of adjacent piles, which relationship describes the temporary measure that is required?",
+    "label": 1,
+    "type": "constraint"
+  },
+  {
+    "query": "Which sampling approach specifies a sample mass of not less than 6kg: BULK SAMPLE or SAMPLING AND TESTING?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which is explicitly described as being part of a complete waterproofing system — CEMENTITIOUS WATERPROOFING or PITCH MODIFIED POLYURETHANE?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Which more directly ensures the adhesion of the sheet membrane — the HIGH BOND PRIMER or MOULD OIL?",
+    "label": 1,
+    "type": "comparison"
+  },
+  {
+    "query": "Is lime putty used in a slurry (with plaster and stone dust) to coat stone liable to stain?",
+    "label": 0,
+    "type": "boolean"
+  },
+  {
+    "query": "When preparing specimens for hardness number tests (constraint: preparing specimens for hardness tests), what preparatory requirement for the spatula and what tapping duration constraint must be followed to level the mastic and remove entrapped air?",
+    "label": 1,
+    "type": "constraint"
+  }
+]

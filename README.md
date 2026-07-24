@@ -4,6 +4,6 @@ Please feel free to contact me (email: dong_qing@connect.hku.hk) if any code or 
 
 The research is not perfect; I'm always open to any comments and discussion.
 
-Click the image below to watch the demo video.
+Click the image below to watch the demo video on youtube.
 
 [![Watch the demo](https://img.youtube.com/vi/7bTUUXd5tbw/hqdefault.jpg)](https://www.youtube.com/watch?v=7bTUUXd5tbw)
